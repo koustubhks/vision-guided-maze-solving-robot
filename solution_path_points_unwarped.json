@@ -1,0 +1,97 @@
+{
+  "source_corners_json": "D:\\maze rajesh files\\part_2_maze_solution\\camera_capture_corners.json",
+  "source_path_json": "D:\\maze rajesh files\\part_2_maze_solution\\solution_path_points.json",
+  "original_image": "D:\\maze rajesh files\\part_2_maze_solution\\camera_capture.png",
+  "warped_image": "D:\\maze rajesh files\\part_2_maze_solution\\maze_warp.png",
+  "unwarped_path_pixels": [
+    [
+      210,
+      173
+    ],
+    [
+      216,
+      177
+    ],
+    [
+      234,
+      159
+    ],
+    [
+      251,
+      141
+    ],
+    [
+      269,
+      158
+    ],
+    [
+      287,
+      176
+    ],
+    [
+      305,
+      193
+    ],
+    [
+      288,
+      211
+    ],
+    [
+      270,
+      229
+    ],
+    [
+      288,
+      247
+    ],
+    [
+      306,
+      264
+    ],
+    [
+      289,
+      282
+    ],
+    [
+      271,
+      300
+    ],
+    [
+      290,
+      318
+    ],
+    [
+      308,
+      335
+    ],
+    [
+      325,
+      317
+    ],
+    [
+      342,
+      299
+    ],
+    [
+      360,
+      281
+    ],
+    [
+      377,
+      263
+    ],
+    [
+      395,
+      280
+    ],
+    [
+      412,
+      297
+    ],
+    [
+      407,
+      286
+    ]
+  ],
+  "notes": "Polyline points are in ORIGINAL image pixel coordinates. Start and end included if present in input."
+}
