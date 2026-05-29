@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+raw/
+captures/raw/
+*.zip
+
